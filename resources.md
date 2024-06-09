@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Introduction](#introduction)
-  - [Motivation and Goals](#motivation-and-goals)
+  - [Motivation and goals](#motivation-and-goals)
   - [Where do I start?](#where-do-i-start)
   - [How this page is organized](#how-this-page-is-organized)
   - [Which resource should I pick?](#which-resource-should-i-pick)
@@ -11,10 +11,10 @@
 - [General resources](#general-resources)
   - [Links to other big lists](#links-to-other-big-lists)
   - [Online courses](#online-courses)
-- [Programming Languages](#programming-languages)
+- [Programming languages](#programming-languages)
   - [C](#c)
   - [C++](#c-1)
-  - [C#](#c-sharp)
+  - [C#](#c-2)
   - [Haskell](#haskell)
   - [HTML, CSS, and JavaScript](#html-css-and-javascript)
   - [Lisp (Scheme, Common Lisp, Clojure, etc)](#lisp-scheme-common-lisp-clojure-etc)
@@ -200,7 +200,7 @@ As with C, I would strongly recommend picking a book on [StackOverflow's C++ Boo
   [cpp-more]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#cpp
   [cpp-so-definitive]: https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
 
-### C-Sharp
+### C\#
 
 - Online courses:
   - Microsoft Virtual Academy has a few free courses:
@@ -307,7 +307,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
        Does require some prior programming experience.
   - Open Culture's [Building Dynamic Websites][webdev-open-dynamic]  
      Hosted by Harvard, and covers a wide variety of topics.
-  - Khan Academy has a series of [three courses][webdev-khan] on introductory Javascript that focuses on drawing graphics and animations, and making games.
+  - Khan Academy has a series of [three courses][webdev-khan] on introductory JavaScript that focuses on drawing graphics and animations, and making games.
   - Team Treehouse has a series of courses on [HTML][webdev-treehouse-js], [CSS][webdev-treehouse-css], and [JavaScript][webdev-treehouse-js]  
      Allows a free 14-day trial, but later requires payment.
 - Interactive tutorials:
@@ -321,7 +321,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
 - Books and tutorials (online):
   - [Mozilla Developer Network][webdev-mdn] (MDN)  
      A series of tutorials covering HTML, CSS, JavaScript, and more. Some tutorials are appropriate for beginners while other tutorials will be more advanced.
-  - [HtmlDog][webdev-htmldog]  
+  - [HTML Dog][webdev-htmldog]  
      Similar to the above, but targeted more specifically to beginners.
   - [Eloquent JavaScript][webdev-eloquent]  
      A book that teaches you how to write idiomatic and clean JavaScript. Assumes prior experience with JavaScript/another programming language.
@@ -361,7 +361,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
   [webdev-the-good-parts]: https://www.amazon.com/gp/product/0596517742
   [webdev-css-diner]: https://flukeout.github.io
 
-### Lisp (Scheme, Common Lisp, Clojure, etc)
+### Lisp (Scheme, Common Lisp, Clojure, etc.)
 
 - Online courses: N/A
 - Interactive tutorials:
@@ -674,8 +674,6 @@ Scratch is a language wherein you create programs by dragging together and conne
 
 Because not many people may be familiar with Scratch, this section will contain resources that are helpful both for _learning_ Scratch, and _teaching_ Scratch.
 
-There are two
-
 - Online courses:
   - edX's [Programming in Scratch](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x#.VJw5t_-kAA) - for beginners.
   - edX's [Middle-Years Computer Science](https://www.edx.org/course/middle-years-computer-science-harveymuddx-cs001x#.VJw5rP-kAA) - a course designed to help teachers design an engaging computer science curriculum for middle-schoolers using Scratch.
@@ -762,16 +760,16 @@ Unless otherwise noted, all of the resources in this category assume prior progr
      A very thorough introduction to data structures and algorithms. Although it uses
     Python, the main concepts taught should be applicable to every language. Starts with
     a quick overview of Python for those unfamiliar to the language.
-  - [Algorithms by Robert Sedgewick](https://algs4.cs.princeton.edu/home/) which is in Java and accompanies [these lectures](https://www.coursera.org/course/algs4partI) on Coursera.
-  - [The Stony Brook Algorithm Repository](https://www3.cs.stonybrook.edu/~algorith/) - a comprehensive reference of many different data structures and algorithms.
-  - [The Big-O Cheat Sheet](https://bigocheatsheet.com/) - a cheat sheet containing links and condensed information about the top most commonly-used/commonly-taught data structures and algorithms.
+  - [Algorithms by Robert Sedgewick](https://algs4.cs.princeton.edu/home) which is in Java and accompanies [these lectures](https://www.coursera.org/course/algs4partI) on Coursera.
+  - [The Stony Brook Algorithm Repository](https://www3.cs.stonybrook.edu/~algorith) - a comprehensive reference of many different data structures and algorithms.
+  - [The Big-O Cheat Sheet](https://bigocheatsheet.com) - a cheat sheet containing links and condensed information about the top most commonly-used/commonly-taught data structures and algorithms.
 - Books (paper):
 
-  - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844) - the canonical guide to algorithms and is very comprehensive. The book is language agnostic, moves at an accelerated pace, and is accompanied by lectures [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/index.htm).
+  - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844) - the canonical guide to algorithms and is very comprehensive. The book is language agnostic, moves at an accelerated pace, and is accompanied by lectures [here](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005).
   - [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steve-Skiena/dp/0387948600) - the first half of the book emphasizes the design and analysis of algorithms, and the second half is a catalog of the 75 most important algorithmic problems for reference.
   - [How can I rebuild my base of algorithms/data structures knowledge?](https://stackoverflow.com/q/1697572/646543) - contains links to various recommended books and suggestions for improvement.
 
-  [algo-problem]: https://interactivepython.org/runestone/static/pythonds/index.html
+  [algo-problem]: https://runestone.academy/ns/books/published/pythonds/index.html
   [algo-codingbat]: https://codingbat.com
   [algo-codeabbey]: https://www.codeabbey.com
   [algo-hackerrank]: https://www.hackerrank.com
@@ -812,4 +810,4 @@ Unless otherwise noted, all of the resources in this category assume prior progr
   - [More free books](https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#mercurial)
 - Books (paper): N/A
 
-TODO: Expand, add info on Subversion, add Lua
+TODO: Expand, add info on Subversion, add Lua, revamp C#, change opiniated text, add Gandi IDE or Snap! to Scratch, revamp Git
