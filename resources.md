@@ -17,7 +17,7 @@
   - [C#](#c-2)
   - [Haskell](#haskell)
   - [HTML, CSS, and JavaScript](#html-css-and-javascript)
-  - [Lisp (Scheme, Common Lisp, Clojure, etc)](#lisp-scheme-common-lisp-clojure-etc)
+  - [Lisp (Scheme, Common Lisp, Clojure, etc.)](#lisp-scheme-common-lisp-clojure-etc)
   - [Java](#java)
   - [Perl](#perl)
   - [PHP](#php)
@@ -142,8 +142,8 @@ In particular, I would strongly recommend that you follow the recommendations on
      A very well-maintained list of recommended books and resources on StackOverflow. Every book listed on this page is highly-recommended.
 - Exercises: N/A
 
-  [c-mit-practical]: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/
-  [c-mit-intro]: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/
+  [c-mit-practical]: https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/
+  [c-mit-intro]: https://ocw.mit.edu/courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/
   [c-mit-effective]: https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014
   [c-learn-c]: https://learn-c.org
   [c-lisp]: https://www.buildyourownlisp.com
@@ -188,9 +188,9 @@ As with C, I would strongly recommend picking a book on [StackOverflow's C++ Boo
 - Exercises: N/A
 
   [cpp-coursera-c-for-cpp]: https://www.coursera.org/course/cplusplus4c
-  [cpp-mit-intro]: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/
-  [cpp-mit-intro-2]: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/
-  [cpp-mit-effective]: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/
+  [cpp-mit-intro]: https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/
+  [cpp-mit-intro-2]: https://ocw.mit.edu/courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/
+  [cpp-mit-effective]: https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/
   [cpp-stan-methodology]: https://see.stanford.edu/Course/CS106A
   [cpp-stan-abstractions]: https://see.stanford.edu/Course/CS106B
   [cpp-stan-paradigms]: https://see.stanford.edu/Course/CS107
@@ -247,7 +247,7 @@ As with C, I would strongly recommend picking a book on [StackOverflow's C++ Boo
 
 - Online courses:
   - edX's [Introduction to Functional Programming][haskell-intro-func]  
-     Assumes familiarity with a non-functional programming language (Java, Python, C#, C++, etc).
+     Assumes familiarity with a non-functional programming language (Java, Python, C#, C++, etc.).
 - Interactive tutorials:
   - [Try Haskell][haskell-try]  
      An interactive guide that teaches basic Haskell.
@@ -349,7 +349,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
   [webdev-khan]: https://www.khanacademy.org/computing/computer-programming
   [webdev-treehouse-css]: https://teamtreehouse.com/features/css
   [webdev-treehouse-js]: https://teamtreehouse.com/features/javascript
-  [webdev-freecodecamp]: https://www.freecodecamp.com/
+  [webdev-freecodecamp]: https://www.freecodecamp.com
   [webdev-odinproject]: https://theodinproject.com
   [webdev-please]: https://css3please.com
   [webdev-mdn]: https://developer.mozilla.org/en-US/docs/Web
@@ -455,7 +455,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
      A series of exercises hosted by the University of Washington, starting with basic Java and finishing with data structures and algorithms. Requires (free) registration first before you can view or work on the exercises.
 
   [java-uda-intro]: https://www.udacity.com/course/cs046
-  [java-mit-intro-to-prog]: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/index.htm
+  [java-mit-intro-to-prog]: https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/index.htm
   [java-mit-intro-to-computers]: https://ocw.mit.edu/courses/civil-and-environmental-engineering/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/
   [java-methodology]: https://see.stanford.edu/Course/CS106A
   [java-abstractions]: https://see.stanford.edu/Course/CS106B
@@ -734,7 +734,7 @@ Unless otherwise noted, all of the resources in this category assume prior progr
     - [Algorithm Design and Analysis](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5) - hosted by UCDavis (University of California, Davis)
     - [Computer Science 61B (Data structures)](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDXrTvCvDgIkeCWeSIDr4Yh) - hosted by UCBerkeley (University of California, Berkeley).
     - [CS2: Data Structures and Algorithms](https://www.youtube.com/course?feature=edu&list=ECE621E25B3BF8B9D1&category=University%2FScience) - Hosted by the University of New South Wales
-  - MIT Open Courseware's [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) and [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/)
+  - MIT Open Courseware's [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) and [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/)
   - Khan Academy's [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - Interactive tutorials: N/A
 - Exercises:
