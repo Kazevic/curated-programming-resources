@@ -1,7 +1,7 @@
 # Curated Programming Resources
 
 A [curated and annotated list of resources][resources] for learning
-programming and computer science.
+programming and computer science. Huge thanks to Michael-0x2a(https://github.com/Michael0x2a) for creating the original list!
 
 [resources]: https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md
 
