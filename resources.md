@@ -37,23 +37,23 @@
 
 ### Motivation and goals
 
-Currently, we're living in a sort of "programming renaissance". Programming and computer science is become more popular
+Currently, we're living in a sort of "programming renaissance."
+Programming and computer science is becoming more popular
 than ever—major initiatives like the [Hour of Code](https://hourofcode.com/us) are popularizing learning programming
 across the world, and the number of people interested in majoring in computer science
 is [growing](https://www.bcs.org/articles-opinion-and-research/computer-science-now-the-fastest-growing-degree-subject-new-data-reveals) [exponentially](https://www.bcs.org/articles-opinion-and-research/record-numbers-of-students-choose-computer-science-a-level-in-2022).
 
 As a consequence, there are increasingly more resources and tutorials
 being produced for beginners who want to learn to code, ranging from books to
-online tutorials to interactive websites to massive open online courses (MOOCS)
-like Codecademy and Coursera.
+online tutorials to interactive websites to massive open online courses (MOOCS) like Codecademy and Coursera.
 
-While this is great, it can also be overwhelming for beginners—there are almost too _many_ resources available, and
-it's challenging to figure out where to start.
+While this is great, it can also be overwhelming for beginners—there are almost too _many_ resources available,
+and it is challenging to figure out where to start.
 
-This page is meant to help solve that problem—to present a **curated** list of resources for people who are either
-new to programming, new to a particular topic, or want to advance their skills past the beginner stage. This page
-doesn't try and list every single resource available, but instead links to resources that are guaranteed to be
-high-quality.
+This page is meant to help solve that problem—to present a **curated** list of resources for people who're either
+new to programming, new to a particular topic, or want to advance their skills past the beginner stage.
+This page doesn't try and list every single resource available,
+but instead links to resources that are guaranteed to be high-quality.
 
 ### Where do I start?
 
@@ -67,16 +67,18 @@ If you're not sure where to start and which language to learn, some good beginne
 - [HTML/CSS/JavaScript](#html-css-and-javascript) (websites and webapps)
 - [Scratch](#scratch) (for younger children)
 
-Python and Java are both languages that
-are [commonly used to teach programming](https://cacm.acm.org/blogcacm/python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities)
-to beginners in schools and universities, and so will have a wide variety of resources available to help you learn.
+Python and Java are both languages
+that are [commonly used
+to teach programming](https://cacm.acm.org/blogcacm/python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities) to beginners in schools and universities
+and so will have a wide variety of resources available to help you learn.
 They're also both widely used in the industry and so are useful languages to have in your toolbelt.
 
 Web development has been very popular lately, so there are many resources for learning HTML, CSS, and JavaScript, also
 making it suitable for learning. It also requires little to no installation and configuration on your computer. All you
 need is a text editor to write code—the code will run on your web browser.
 
-Scratch is a little different from other languages. It was designed from the ground up to be easy to use and learn—instead of typing text, you drag and connect "blocks" to form programs, making it a very visual language. As a
+Scratch is a little different from other languages. It was designed from the ground up to be easy to use and
+learn—instead of typing text, you drag and connect "blocks" to form programs, making it a very visual language. As a
 result, Scratch is a good language especially for younger children (elementary schoolers, middle schoolers) or for
 people who dislike typing.
 
@@ -115,8 +117,8 @@ If you would like to contribute, please see [CONTRIBUTING.md][contrib] for detai
 ### Links to other big lists
 
 You can find a
-large [list of free programming books and resources on GitHub](https://ebookfoundation.github.io/free-programming-books). (
-It used to be hosted on StackOverflow, but was moved over to GitHub on October 2013).
+large [list of free programming books and resources on GitHub](https://ebookfoundation.github.io/free-programming-books).
+(It used to be hosted on StackOverflow, but was moved over to GitHub on October 2013).
 
 ### Online courses
 
@@ -310,7 +312,7 @@ As with C, I would strongly recommend picking a book on [StackOverflow's C++ Boo
       A collection of tips and tricks to improve your C# code. Not for beginners.
 - Exercises: N/A
 
-  [csharp-fundamentals]: https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169
+  [csharp-fundamentals]: https://mva.microsoft.com/training-courses/c-fundamentals-for-absolute-beginners-16169
 
   [csharp-jump-start]: https://www.microsoftvirtualacademy.com/training-courses/developer-training-with-programming-in-c
 
@@ -397,7 +399,7 @@ _appearance_. JavaScript is used to add _behavior_ and _interactivity_.
 The recommended learning order is typically to start with HTML and CSS, then move on to learning JavaScript once you
 feel you've acquired a basic understanding of the previous two.
 
-Also note that HTML and CSS are examples of "markup languages", not "programming languages" and so will feel fairly
+Also note that HTML and CSS are examples of "markup languages," not "programming languages" and so will feel fairly
 different from JavaScript. If your goal is to learn just programming, you might want to jump straight ahead to
 JavaScript (or pick a different programming language!). However, since the main way to actually use JavaScript is
 through the web browser, you _do_ need to learn HTML and CSS at one point or another.
@@ -408,8 +410,9 @@ through the web browser, you _do_ need to learn HTML and CSS at one point or ano
         - [Make an interactive website][webdev-cc-make-interactive]
         - [HTML & CSS][webdev-cc-html-css]
         - [JavaScript][webdev-cc-js]
-        - [jQuery][webdev-cc-jquery]
-          Please note that Codecademy focuses only on _introducing_ programming languages. It is strongly recommended that you work through a more comprehensive beginner's tutorial after finishing Codecademy.
+        - [jQuery][webdev-cc-jquery]  
+          Please note that Codecademy focuses only on _introducing_ programming languages. It is strongly recommended
+          that you work through a more comprehensive beginner's tutorial after finishing Codecademy.
     - So does Udacity:
         - [Intro to HTML and CSS][webdev-uda-html-css]
         - [JavaScript Basics][webdev-uda-js]  
@@ -481,13 +484,13 @@ through the web browser, you _do_ need to learn HTML and CSS at one point or ano
 
   [webdev-please]: https://css3please.com
 
-  [webdev-mdn]: https://developer.mozilla.org/en-US/docs/Web
+  [webdev-mdn]: https://developer.mozilla.org/docs/Web
 
   [webdev-htmldog]: https://www.htmldog.com
 
   [webdev-eloquent]: https://eloquentjavascript.net
 
-  [webdev-js-reintroduction]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+  [webdev-js-reintroduction]: https://developer.mozilla.org/docs/Web/JavaScript/Language_overview
 
   [webdev-more-html-css]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#html-and-css
 
@@ -575,7 +578,7 @@ through the web browser, you _do_ need to learn HTML and CSS at one point or ano
       An objects-first introduction to Java.
     - MIT Open Courseware:
         - [Introduction to Programming in Java][java-mit-intro-to-prog]
-        - [Introduction to Computers and Engineering Problem Solving][java-mit-intro-to-computers]  
+        - [Introduction to Computers and Engineering Problem-Solving][java-mit-intro-to-computers]  
           For beginners, emphasizes practical application of Java.
     - Stanford's 3-part "Introduction to Computer Science" series for beginners. The first course teaches Java, the
       latter two teaches C and C++.
@@ -659,9 +662,9 @@ through the web browser, you _do_ need to learn HTML and CSS at one point or ano
       A guide on writing clean and idiomatic Perl code. Great for teaching the philosophy and fundamentals of Perl.
       Comprehensive and thorough.
     - [Impatient Perl][perl-impatient]  
-      An accelerated guide for impatient people or people with prior programming experience.
+      A faster guide for impatient people or people with prior programming experience.
     - [Learn Perl in about 2 hours 30 minutes][perl-230]  
-      Another accelerated guide for the impatient. Geared towards people who have prior experience in another
+      Another faster guide for the impatient. Geared towards people who have prior experience in another
       programming language.
     - [More free books][perl-more]
     - Perl.org also hosts a [list of recommended books][perl-books], many of which are available online for free.
@@ -692,12 +695,12 @@ through the web browser, you _do_ need to learn HTML and CSS at one point or ano
 
 ### PHP
 
-Note: while PHP can be very convenient, quick, and easy to use, it's also a language viewed negatively by many
+Note: while PHP can be very convenient, quick, and easy to use, it is also a language viewed negatively by many
 programmers. (See [PHP: a fractal of bad design][php-fractal]). If you do decide to learn PHP and adopt it as your
 language of choice, just be aware of the fact that people will probably make fun of you at one point or another.
 
-Also, it's important to first learn [HTML and CSS](#html-css-and-javascript) before attempting to learn PHP. PHP is a
-language which attempts to "extend" and work with HTML, so may not fully make sense if you try and learn it before
+Also, it is important to first learn [HTML and CSS](#html-css-and-javascript) before attempting to learn PHP. PHP is a
+language that attempts to "extend" and work with HTML, so may not fully make sense if you try and learn it before
 picking up basic web development.
 
 - Online courses:
@@ -728,7 +731,7 @@ picking up basic web development.
 
   [php-fractal]: https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/
 
-  [php-manual]: https://php.net/manual/en/index.php
+  [php-manual]: https://php.net/manual
 
   [php-tutorialspoint]: https://www.tutorialspoint.com/php/
 
@@ -792,7 +795,7 @@ Python community, except for a few holdouts, is moving towards Python 3 and aban
       computer science concepts using Python. While it does briefly cover Python syntax,
       it assumes that you already have some basic prior experience.
     - [Dive into Python 3][python-dive]  
-      An accelerated introduction to Python. Warning: do NOT use "Dive into Python 2". It's very outdated.
+      A faster introduction to Python. Warning: DON'T use "Dive into Python 2." It is very outdated.
     - [Program Arcade Games With Python And Pygame][python-arcade]  
       A fantastic and thorough introduction to Python via making games. For beginners.
     - [Invent with Python][python-invent]  
@@ -800,7 +803,7 @@ Python community, except for a few holdouts, is moving towards Python 3 and aban
     - [The Hitchhiker's Guide to Python][python-hitchhiker]  
       A comprehensive introduction to the Python ecosystem. Covers how to properly configure and set up a development
       environment in Python, best practices, writing idiomatic code, what the best 3rd party libraries are for different
-      tasks, and shipping your code. Useful for both beginners and experts (however, the guide does not actually teach
+      tasks, and shipping your code. Useful for both beginners and experts (however, the guide doesn't actually teach
       Python itself).
     - [pycrumbs][python-pycrumbs]  
       A huge list of many useful articles, tutorials, and snippets on Python, ranging from basic to advanced.
@@ -882,7 +885,7 @@ Python community, except for a few holdouts, is moving towards Python 3 and aban
 - Video tutorials: N/A
 - Books and tutorials (online):
     - [Why's (Poignant) Guide to Ruby][ruby-poignant]  
-      A little quirky, but still very good.
+      A little quirky, but still great.
     - [Learn Ruby The Hard Way][ruby-lrthw]  
       Part of the "Learn X The Hard Way" series. Focuses on teaching Ruby through a series of self-guided exercises.
     - [More free books][ruby-more]
@@ -924,16 +927,15 @@ Scratch is a language wherein you create programs by dragging together and conne
 languages, Scratch is very visual, making it a great first programming language, especially for children and younger
 teens.
 
-Because not many people may be familiar with Scratch, this section will contain resources that are helpful both for
+Because few people may be familiar with Scratch, this section will contain resources that are helpful both for
 _learning_ Scratch, and _teaching_ Scratch.
 
 - Online courses:
-    - edX's [Programming in Scratch](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x#.VJw5t_-kAA) -
-      for beginners.
-    -
-    edX's [Middle-Years Computer Science](https://www.edx.org/course/middle-years-computer-science-harveymuddx-cs001x#.VJw5rP-kAA) -
-    a course designed to help teachers design an engaging computer science curriculum for middle-schoolers using
-    Scratch.
+    - edX's [Programming in Scratch](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x#.VJw5t_-kAA)  
+      For beginners.
+    - edX's [Middle-Years Computer Science](https://www.edx.org/course/middle-years-computer-science-harveymuddx-cs001x#.VJw5rP-kAA)  
+      A course designed to help teachers design an engaging computer science curriculum for middle-schoolers using
+  Scratch.
 - Interactive tutorials: N/A
 - Video tutorials:
     - [Video tutorials][scratch-official] from Scratch's website  
@@ -951,7 +953,7 @@ _learning_ Scratch, and _teaching_ Scratch.
     - Reference guides: for [Scratch][scratch-reference] and [Snap/Build Your Own Blocks][scratch-snap-reference] (a
       variant of Scratch)  
       Contains comprehensive descriptions of all language features. The Scratch reference will be useful for all levels,
-      and the Snap reference will be particularly useful for those who are already proficient at programming in another
+      and the Snap reference will be particularly useful for those who're already proficient at programming in another
       language.
     - [Scratch for Educators][scratch-educators]  
       Scratch's official portal and collection of resources for teaching using Scratch.
@@ -981,7 +983,7 @@ _learning_ Scratch, and _teaching_ Scratch.
 
 ## Other topics
 
-Note: this section of the guide is very much a work-in-progress.
+Note: this section of the guide is very much work-in-progress.
 
 ### Developing on specific platforms
 
@@ -989,7 +991,7 @@ Note: this section of the guide is very much a work-in-progress.
 
 Due to my lack of experience working with mobile apps, I don't feel particularly comfortable recommending any particular
 resources regarding mobile development. This section of the guide might be expanded in the future, but for now, I would
-recommend following the recommendations listed here:
+ recommend the following recommendations listed here:
 
 - [Android](https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#android)
 - [iOS](https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#ios)
@@ -1011,8 +1013,8 @@ Unless otherwise noted, all the resources in this category assume prior programm
         - [CS2: Data Structures and Algorithms](https://www.youtube.com/course?feature=edu&list=ECE621E25B3BF8B9D1&category=University%2FScience) -
           Hosted by the University of New South Wales
     - MIT Open
-      Courseware's [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)
-      and [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/)
+Courseware's [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011)
+      and [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2012)
     - Khan Academy's [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - Interactive tutorials: N/A
 - Exercises:
@@ -1031,10 +1033,10 @@ Unless otherwise noted, all the resources in this category assume prior programm
       competitions.
     - [Project Euler][algo-euler]  
       A collection of programming exercises. The exercises are more math-oriented,
-      and are not always CS-oriented.
+      and aren't always CS-oriented.
 - Video tutorials: N/A
 - Books and tutorials (online):
-    - [Problem Solving with Algorithms and Data Structures][algo-problem]  
+    - [Problem-Solving with Algorithms and Data Structures][algo-problem]  
       A very thorough introduction to data structures and algorithms. Although it uses
       Python, the main concepts taught should be applicable to every language. Starts with
       a quick overview of Python for those unfamiliar to the language.
@@ -1046,15 +1048,14 @@ Unless otherwise noted, all the resources in this category assume prior programm
       about the top most commonly used/commonly taught data structures and algorithms.
 - Books (paper):
 
-    - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844) - the
-      canonical guide to algorithms and is very comprehensive. The book is language agnostic, moves at an faster
-      pace, and is accompanied by
-      lectures [here](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005).
-    - [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steve-Skiena/dp/0387948600) - the
-      first half of the book emphasizes the design and analysis of algorithms, and the second half is a catalog of the
-      75 most important algorithmic problems for reference.
-    - [How can I rebuild my base of algorithms/data structures knowledge?](https://stackoverflow.com/q/1697572/646543) -
-      contains links to various recommended books and suggestions for improvement.
+    - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844)  
+      The canonical guide to algorithms and is very comprehensive. The book is language agnostic, moves at a faster
+      pace, and is accompanied by lectures [here](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005).
+    - [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steve-Skiena/dp/0387948600)  
+      The first half of the book emphasizes the design and analysis of algorithms,
+      and the second half is a catalog of the 75 most important algorithmic problems for reference.
+    - [How can I rebuild my base of algorithms/data structures knowledge?](https://stackoverflow.com/q/1697572/646543)  
+      Contains links to various recommended books and suggestions for improvement.
 
   [algo-problem]: https://runestone.academy/ns/books/published/pythonds/index.html
 
@@ -1081,7 +1082,7 @@ Unless otherwise noted, all the resources in this category assume prior programm
 - Online courses:
     - [How to Use Git and GitHub](https://www.udacity.com/course/ud775) - via Udacity.
 - Interactive tutorials:
-    - [Learn Git Branching](https://pcottle.github.io/learnGitBranching/) - a very visual interactive tutorial starting
+    - [Learn Git Branching](https://pcottle.github.io/learnGitBranching) - a very visual interactive tutorial starting
       from the absolute basics with a high emphasis on understanding the internals/what each git command really means.
     - [Try Git](https://try.github.io/levels/1/challenges/1) - an interactive tutorial that teaches basic Git.
 - Exercises: N/A
@@ -1105,5 +1106,5 @@ Unless otherwise noted, all the resources in this category assume prior programm
     - [More free books](https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#mercurial)
 - Books (paper): N/A
 
-TODO: Expand, add info on Subversion, add Lua, revamp C#, change opinionated text, add Penguinmod to Scratch,
+TODO: Expand, add info on Subversion, add Lua, revamp C#, add Penguinmod to Scratch,
 revamp Git
